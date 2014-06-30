@@ -1,6 +1,8 @@
 #Github MacOS X folder icon
 
-To be honest, this is probably not gonna change the world... 
+To be honest, this is probably not gonna change the world...
+
+![Github icon](how-to-use.jpg)
 
 #How to use
 * Select a folder
